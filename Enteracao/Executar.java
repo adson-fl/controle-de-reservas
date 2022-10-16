@@ -25,7 +25,7 @@ public class Executar {
 			System.out.println("digite o numero do quarto");
 			int numerodoquarto = sc.nextInt();
 
-			vect[numerodoquarto] = new Benk(nome, email);// atribui o obijeto na posição do verrtor estanciado
+			vect[numerodoquarto] = new Benk(nome, email);
 		}
 		System.out.println("");
 		System.out.println("chequim");
